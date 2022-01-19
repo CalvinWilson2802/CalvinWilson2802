@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Calvin Wilson</h1>
 <h3 align="center">I love working on a variety of projects</h3>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=christopherbthai&label=Profile%20views&color=0e75b6&style=flat" alt="christopherbthai" />
-<img src="https://discordbots.org/api/widget/status/408785106942164992.svg" alt="christopherbthai" />
-<img src="https://discordbots.org/api/widget/servers/408785106942164992.svg" alt="christopherbthai" />
-</p>
-
 - 🔭 I’m currently working on PowerKuy Bot
 
 - 🌱 I’m currently learning **how to create a "Twitch plays..." via a headless server**
